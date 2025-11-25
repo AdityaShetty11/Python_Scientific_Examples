@@ -35,13 +35,13 @@ Each script can be run independently and typically generates a plot using librar
    Install them with:
 
    ```bash
-   pip install matplotlib numpy
+   pip3 install matplotlib numpy
    ```
 
 3. **Run any script:**
 
    ```bash
-   python eg3-sin2x.py
+   python3 eg3-sin2x.py
    ```
 
 Each script will display a plot window or save an output figure depending on how it is written.
